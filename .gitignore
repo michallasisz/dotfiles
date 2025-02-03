@@ -1,0 +1,24 @@
+#IDE's
+.idea
+.vscode
+.history
+
+# ACT
+.secrets
+.vars
+.inputs
+
+# Logs
+*.log
+
+# Env's
+.env
+.env.*
+!.env.example
+
+# SQL's
+*.sql
+*.sql*
+*.sqlite
+*.sqlite*
+web/app/object-cache.php
